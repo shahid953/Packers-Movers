@@ -10,7 +10,7 @@ const Navigation = () => {
     { name: 'Services', icon: Settings, href: '#services' },
     { name: 'Photos', icon: Image, href: '#photos' },
     { name: 'Videos', icon: Video, href: '#videos' },
-    {name: 'banner', icon: Image, href:'#banner' },
+    {name: 'Banners', icon: Image, href:'#banner' },
     { name: 'Procedure', icon: RotateCcw, href: '#procedure' },
     { name: 'Contact Us', icon: Phone, href: '#contact' },
     { name: 'Profile', icon: UserCircle, href: '#profile' },
